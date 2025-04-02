@@ -1,0 +1,10 @@
+--- Inventory Management System Test ---
+Product Laptop added to inventory.
+Product Smartphone added to inventory.
+5 units added to Laptop. New stock: 15
+3 units added to Smartphone. New stock: 8
+7 units of Laptop sold. Remaining stock: 8
+2 units of Smartphone sold. Remaining stock: 6
+Not enough stock of Smartphone to sell.
+Stock of Laptop: 8 units.
+Stock of Smartphone: 6 units.
